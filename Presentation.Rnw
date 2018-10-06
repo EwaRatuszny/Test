@@ -6,7 +6,7 @@ x§
 %	PACKAGES AND THEMES
 %----------------------------------------------------------------------------------------
 
-\documentclass{article}
+\documentclass{book}
 
 \mode<presentation> {
 
